@@ -1,0 +1,45 @@
+nohup: ignoring input
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+Start learning ...
+Init data [Dtype: delicious - Non-Coldstart]
+Init social model
+Could not use CUDA
+Params [lbd-U: 0.1000|lbd-V: 100.0000|lbd-N: -1.0000|lbd-Q: 0.1000]
+Staring Sample 8 - Loc: save/sorec/delicious-alg50-sp8-20170416112817534 
+SoRec Running ...
+export LD_LIBRARY_PATH=../gsldump/lib && ctr-part-sorec/ctr --directory save/sorec/delicious-alg50-sp8-20170416112817534 --b 1 --user data/delicious/ctr-data/sp8/train-users.dat --item data/delicious/ctr-data/sp8/train-items.dat --net data/delicious/ctr-data/net-users.dat --max_iter 200 --num_factors 100 --lambda_v 100.000000 --lambda_u 0.100000 --lambda_q 0.100000 --lambda_s 0.010000 --save_lag 100 --random_seed 123 >> save/sorec/delicious-alg50-sp8-20170416112817534/ctr-log
+
+iter time likelihood converge
+0001 000024 -41886.21741 1.0000000000
+0002 000048 -28397.78613 0.3220255281
+0003 000072 -27300.67163 0.0386338036
+0004 000095 -26908.71903 0.0143568850
+0005 000119 -26810.78507 0.0036394880
+0006 000143 -26743.71441 0.0025016300
+0007 000167 -26717.55059 0.0009783164
+0008 000191 -26711.90818 0.0002111875
+0009 000215 -26711.87708 0.0000011644
+Start evaluating ...
+  Columns 1 through 7
+
+    0.0559    0.0965    0.1278    0.1598    0.1837    0.2010    0.2141
+
+  Columns 8 through 10
+
+    0.2238    0.2311    0.2347
+
+    0.0131
+
+Elapsed time is 241.013933 seconds.

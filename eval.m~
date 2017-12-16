@@ -1,0 +1,27 @@
+function [ res ] = eval( mU, mV, params )
+%UNTITLED Summary of this function goes here
+%   Detailed explanation goes here
+uTrain = mapreader(params.utrain, 1);
+uTest = mapreader(params.utest, 1);
+
+uRate = mU*mV';
+uRecall = zeros(params.nU, params.topM); % store recall
+uIgnore = [];
+for uid=1:params.nU,
+    disp(uid);
+    uRate(uid, uTrain(uid)) = -inf;
+    [~, I] = sort(uRate(uid, :), 'descend');
+    ugold = uTest(uid);
+    if ~isempty(ugold),
+        for top=20:20:params.topM,
+            C = intersect(ugold, I(1:top));
+            uRecall(uid, top) = length(C)/length(ugold);
+        end;
+    else
+        uIgnore = [uIgnore uid];
+    end;
+end;
+
+res = mean(uRecall, 1);
+end
+

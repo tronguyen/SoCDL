@@ -1,0 +1,95 @@
+nohup: ignoring input
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+Start learning ...
+Init data [Dtype: delicious - Dspec: sp3/5050]
+Init social model
+Using adagrad ...
+Load pretrained shallow-model...
+Could not use CUDA
+[Warning: Directory already exists.] 
+[> In genloc (line 32)
+  In main_socdl (line 44)] 
+[Warning: Directory already exists.] 
+[> In genloc (line 33)
+  In main_socdl (line 44)] 
+Params [lbd-U: 1.0000|lbd-V: 0.1000|lbd-N: 1.0000|lbd-Q: 0.0100]
+Staring Sample 3 - Loc: save/bcdl/delicious-alg61-sp3-cold20170227105048091 
+CTR(chongwang)-DAE(User graph) Running - Walks(1)...
+-1/200: 460338.239061/24557.258007/435780.981054/1.000000000
+-2/200: 442875.161097/7832.141505/435043.019592/0.037935319
+-3/200: 440885.466602/5770.676335/435114.790267/0.004492676
+-4/200: 440347.134985/5173.416398/435173.718587/0.001221024
+-5/200: NaN/NaN/435164.165076/NaN
+-6/200: NaN/NaN/NaN/NaN
+-7/200: NaN/NaN/NaN/NaN
+-8/200: NaN/NaN/NaN/NaN
+-9/200: NaN/NaN/NaN/NaN
+-10/200: NaN/NaN/NaN/NaN
+-11/200: NaN/NaN/NaN/NaN
+-12/200: NaN/NaN/NaN/NaN
+-13/200: NaN/NaN/NaN/NaN
+-14/200: NaN/NaN/NaN/NaN
+-15/200: NaN/NaN/NaN/NaN
+-16/200: NaN/NaN/NaN/NaN
+-17/200: NaN/NaN/NaN/NaN
+-18/200: NaN/NaN/NaN/NaN
+-19/200: NaN/NaN/NaN/NaN
+-20/200: NaN/NaN/NaN/NaN
+-21/200: NaN/NaN/NaN/NaN
+-22/200: NaN/NaN/NaN/NaN
+-23/200: NaN/NaN/NaN/NaN
+-24/200: NaN/NaN/NaN/NaN
+-25/200: NaN/NaN/NaN/NaN
+-26/200: NaN/NaN/NaN/NaN
+-27/200: NaN/NaN/NaN/NaN
+-28/200: NaN/NaN/NaN/NaN
+-29/200: NaN/NaN/NaN/NaN
+-30/200: NaN/NaN/NaN/NaN
+-31/200: NaN/NaN/NaN/NaN
+-32/200: NaN/NaN/NaN/NaN
+-33/200: NaN/NaN/NaN/NaN
+-34/200: NaN/NaN/NaN/NaN
+-35/200: NaN/NaN/NaN/NaN
+-36/200: NaN/NaN/NaN/NaN
+-37/200: NaN/NaN/NaN/NaN
+-38/200: NaN/NaN/NaN/NaN
+-39/200: NaN/NaN/NaN/NaN
+-40/200: NaN/NaN/NaN/NaN
+-41/200: NaN/NaN/NaN/NaN
+-42/200: NaN/NaN/NaN/NaN
+-43/200: NaN/NaN/NaN/NaN
+-44/200: NaN/NaN/NaN/NaN
+-45/200: NaN/NaN/NaN/NaN
+-46/200: NaN/NaN/NaN/NaN
+-47/200: NaN/NaN/NaN/NaN
+-48/200: NaN/NaN/NaN/NaN
+-49/200: NaN/NaN/NaN/NaN
+-50/200: NaN/NaN/NaN/NaN
+-51/200: NaN/NaN/NaN/NaN
+-52/200: NaN/NaN/NaN/NaN
+-53/200: NaN/NaN/NaN/NaN
+-54/200: NaN/NaN/NaN/NaN
+-55/200: NaN/NaN/NaN/NaN
+-56/200: NaN/NaN/NaN/NaN
+-57/200: NaN/NaN/NaN/NaN
+-58/200: NaN/NaN/NaN/NaN
+-59/200: NaN/NaN/NaN/NaN
+-60/200: NaN/NaN/NaN/NaN
+-61/200: NaN/NaN/NaN/NaN
+-62/200: NaN/NaN/NaN/NaN
+-63/200: NaN/NaN/NaN/NaN
+-64/200: NaN/NaN/NaN/NaN
+-65/200: NaN/NaN/NaN/NaN
+-66/200: NaN/NaN/NaN/NaN

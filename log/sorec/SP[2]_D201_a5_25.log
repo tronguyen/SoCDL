@@ -1,0 +1,58 @@
+nohup: ignoring input
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+Start learning ...
+Init data [Dtype: delicious - Non-Coldstart]
+Init social model
+Could not use CUDA
+Params [lbd-U: 0.1000|lbd-V: 100.0000|lbd-N: -1.0000|lbd-Q: 0.1000]
+Staring Sample 2 - Loc: save/sorec/delicious-alg50-sp2-20170416112817984 
+SoRec Running ...
+export LD_LIBRARY_PATH=../gsldump/lib && ctr-part-sorec/ctr --directory save/sorec/delicious-alg50-sp2-20170416112817984 --b 1 --user data/delicious/ctr-data/sp2/train-users.dat --item data/delicious/ctr-data/sp2/train-items.dat --net data/delicious/ctr-data/net-users.dat --max_iter 200 --num_factors 100 --lambda_v 100.000000 --lambda_u 0.100000 --lambda_q 0.100000 --lambda_s 0.010000 --save_lag 100 --random_seed 123 >> save/sorec/delicious-alg50-sp2-20170416112817984/ctr-log
+
+iter time likelihood converge
+0001 000024 -41990.72655 1.0000000000
+0002 000047 -28504.32614 0.3211756861
+0003 000071 -27403.91406 0.0386050900
+0004 000095 -27016.54410 0.0141355707
+0005 000119 -26918.83411 0.0036166724
+0006 000143 -26856.28573 0.0023235916
+0007 000167 -26833.15525 0.0008612688
+0008 000191 -26829.37729 0.0001407944
+0009 000214 -26830.44589 0.0000398293
+0010 000240 -26832.36659 0.0000715867
+0011 000263 -26834.24156 0.0000698771
+0012 000287 -26835.94149 0.0000633493
+0013 000312 -26837.46774 0.0000568736
+0014 000336 -26838.81423 0.0000501720
+0015 000362 -26839.96896 0.0000430244
+0016 000386 -26840.93065 0.0000358304
+0017 000410 -26841.71196 0.0000291089
+0018 000434 -26842.33462 0.0000231977
+0019 000458 -26842.82378 0.0000182234
+0020 000483 -26843.20412 0.0000141692
+0021 000507 -26843.49786 0.0000109428
+0022 000532 -26843.72398 0.0000084236
+Start evaluating ...
+  Columns 1 through 7
+
+    0.0423    0.0693    0.0917    0.1181    0.1354    0.1501    0.1586
+
+  Columns 8 through 10
+
+    0.1669    0.1728    0.1793
+
+    0.0119
+
+Elapsed time is 557.670088 seconds.

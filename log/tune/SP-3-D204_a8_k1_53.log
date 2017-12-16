@@ -1,0 +1,40 @@
+nohup: ignoring input
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+Start learning ...
+Init data [Dtype: delicious - Dspec: sp3/2550]
+Init social model
+Using adagrad ...
+Params [lbd-U: 100.0000|lbd-V: 1.0000|lbd-N: 100.0000|lbd-Q: 0.0500]
+Staring Sample 3 - Loc: save/ctr/delicious-alg80-sp3-cold20170226125821281 
+CTR(chongwang) Running ...
+
+iter time likelihood:[r:u:v] converge
+0001 000197 -15925.00000:[0.00000:0.00000:0.00000] 1.0000000000
+0002 000385 -15904.62969:[41.20050:-15.77029:-4.71211] 0.0012791404
+0003 000582 -15901.87259:[58.87373:-26.91005:-8.17843] 0.0001733519
+0004 000794 -15901.64874:[64.45382:-30.83990:-9.48054] 0.0000140768
+0005 001082 -15901.69609:[66.09721:-32.05424:-9.91371] 0.0000029774
+Start evaluating ...
+  Columns 1 through 7
+
+    0.0015    0.0028    0.0039    0.0053    0.0061    0.0071    0.0078
+
+  Columns 8 through 10
+
+    0.0088    0.0097    0.0104
+
+   4.4041e-04
+
+Elapsed time is 1216.042540 seconds.

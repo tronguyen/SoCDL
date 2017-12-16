@@ -1,0 +1,172 @@
+nohup: ignoring input
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+Start learning ...
+Init data [Dtype: delicious - Dspec: sp3/1050]
+Init social model
+Using adagrad ...
+Could not use CUDA
+Params [lbd-U: 1.0000|lbd-V: 0.0100|lbd-N: 1.0000|lbd-Q: 0.0100]
+Staring Sample 3 - Loc: save/ctrsmf/delicious-alg90-sp3-cold20170226131114910 
+CTR-SMF Running ...
+
+iter time likelihood converge
+0001 000164 -10235973.22730 1.0000000000
+0002 000305 -9968986.62179 0.0260831676
+0003 000447 -9754119.36702 0.0215535704
+0004 000586 -9688821.43628 0.0066943953
+0005 000724 -9656281.12786 0.0033585415
+0006 000863 -9631575.43740 0.0025585099
+0007 001001 -9614490.37156 0.0017738599
+0008 001141 -9603233.51512 0.0011708220
+0009 001279 -9595049.82772 0.0008521804
+0010 001414 -9588592.57940 0.0006729770
+0011 001552 -9583186.84593 0.0005637671
+0012 001691 -9578523.00923 0.0004866687
+0013 001833 -9574436.03643 0.0004266809
+0014 001975 -9570819.03819 0.0003777766
+0015 002117 -9567594.45384 0.0003369183
+0016 002258 -9564702.26552 0.0003022900
+0017 002403 -9562094.31274 0.0002726643
+0018 002543 -9559731.05537 0.0002471485
+0019 002685 -9557579.30231 0.0002250851
+0020 002826 -9555610.78792 0.0002059637
+0021 002971 -9553801.43355 0.0001893499
+0022 003114 -9552130.76315 0.0001748697
+0023 003255 -9550581.26995 0.0001622144
+0024 003398 -9549137.81676 0.0001511377
+0025 003541 -9547787.19351 0.0001414393
+0026 003682 -9546517.89805 0.0001329413
+0027 003825 -9545320.15748 0.0001254636
+0028 003972 -9544186.14102 0.0001188034
+0029 004113 -9543109.97602 0.0001127561
+0030 004255 -9542087.14821 0.0001071797
+0031 004396 -9541113.94140 0.0001019910
+0032 004537 -9540187.18332 0.0000971331
+0033 004674 -9539304.05003 0.0000925698
+0034 004812 -9538461.97525 0.0000882742
+0035 004948 -9537658.67583 0.0000842169
+0036 005083 -9536892.20043 0.0000803631
+0037 005220 -9536160.94347 0.0000766767
+0038 005356 -9535463.63528 0.0000731225
+0039 005491 -9534799.33656 0.0000696661
+0040 005630 -9534167.44017 0.0000662726
+0041 005767 -9533567.60681 0.0000629141
+0042 005903 -9532999.54166 0.0000595858
+0043 006042 -9532462.69269 0.0000563148
+0044 006176 -9531956.11628 0.0000531422
+0045 006312 -9531478.53797 0.0000501029
+0046 006449 -9531028.46881 0.0000472192
+0047 006589 -9530604.31430 0.0000445025
+0048 006726 -9530204.49033 0.0000419516
+0049 006866 -9529827.56107 0.0000395510
+0050 007003 -9529472.35397 0.0000372732
+0051 007142 -9529137.98752 0.0000350876
+0052 007281 -9528823.80544 0.0000329707
+0053 007418 -9528529.23754 0.0000309134
+0054 007554 -9528253.62165 0.0000289253
+0055 007689 -9527996.08931 0.0000270283
+0056 007826 -9527755.59208 0.0000252411
+0057 007962 -9527531.05306 0.0000235668
+0058 008098 -9527321.53405 0.0000219909
+0059 008235 -9527126.28379 0.0000204937
+0060 008371 -9526944.67421 0.0000190624
+0061 008508 -9526776.10374 0.0000176941
+0062 008646 -9526619.95354 0.0000163907
+0063 008783 -9526475.60738 0.0000151519
+0064 008920 -9526342.46748 0.0000139758
+0065 009060 -9526219.93905 0.0000128621
+0066 009203 -9526107.41174 0.0000118124
+0067 009330 -9526004.25943 0.0000108284
+0068 009448 -9525909.83065 0.0000099127
+Start evaluating ...
+  Columns 1 through 7
+
+    0.0104    0.0116    0.0121    0.0123    0.0125    0.0127    0.0128
+
+  Columns 8 through 10
+
+    0.0130    0.0132    0.0134
+
+    0.0036
+
+Elapsed time is 9569.793153 seconds.
+
+------------------------------------------------------------------------
+       Segmentation violation detected at Sun Feb 26 15:50:47 2017
+------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding      : Disabled
+  Crash Mode          : continue (default)
+  Current Graphics Driver: Unknown software 
+  Current Visual      : None
+  Default Encoding    : UTF-8
+  GNU C Library       : 2.17 stable
+  Host Name           : cpu2
+  MATLAB Architecture : glnxa64
+  MATLAB Root         : /usr/local/MATLAB_R2016a
+  MATLAB Version      : 9.0.0.341360 (R2016a)
+  OpenGL              : software
+  Operating System    : Linux 3.10.0-327.22.2.el7.x86_64 #1 SMP Thu Jun 23 17:05:11 UTC 2016 x86_64
+  Processor ID        : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Virtual Machine     : Java 1.7.0_60-b19 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  Window System       : No active display
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Register State (from fault):
+  RAX = 0000000000000000  RBX = 00007fca49befe80
+  RCX = 000000000000002f  RDX = 0000000000000000
+  RSP = 00007fca69a2ed98  RBP = 00007fca6ba31d80
+  RSI = 0000000000000001  RDI = 00007fc9f4bbd700
+
+   R8 = 0000000000000000   R9 = 0000000000000000
+  R10 = 0000000000000000  R11 = 0000000000000246
+  R12 = 00007fca6bbf3f80  R13 = 0000000000001300
+  R14 = 0000000000000026  R15 = 00007fca6ba4fd80
+
+  RIP = 00007fca87a43df7  EFL = 0000000000010246
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007fca87a43df7                         /usr/lib64/libpthread.so.0+00036343 pthread_detach+00000023
+[  1] 0x00007fca81dd83e6   /usr/local/MATLAB_R2016a/bin/glnxa64/libtbb.so.2+00111590 _ZN3rml8internal14thread_monitor13detach_threadEm+00000006
+[  2] 0x00007fca81dd8783   /usr/local/MATLAB_R2016a/bin/glnxa64/libtbb.so.2+00112515
+[  3] 0x00007fca81ddfa6b   /usr/local/MATLAB_R2016a/bin/glnxa64/libtbb.so.2+00141931
+[  4] 0x00007fca81ddbba5   /usr/local/MATLAB_R2016a/bin/glnxa64/libtbb.so.2+00125861
+[  5] 0x00007fca891d7c34 /usr/local/MATLAB_R2016a/bin/glnxa64/libmwservices.so+03394612
+[  6] 0x00007fca891d7c93 /usr/local/MATLAB_R2016a/bin/glnxa64/libmwservices.so+03394707
+[  7] 0x00007fca876b2dba                               /usr/lib64/libc.so.6+00232890 __cxa_finalize+00000154
+[  8] 0x00007fca890a0dd6 /usr/local/MATLAB_R2016a/bin/glnxa64/libmwservices.so+02121174
+[  9] 0x00007fca892a399d /usr/local/MATLAB_R2016a/bin/glnxa64/libmwservices.so+04229533 _fini+00000009
+[ 10] 0x00007fca876b2a49                               /usr/lib64/libc.so.6+00232009
+[ 11] 0x0000000000b3c770                                   <unknown-module>+00000000
+
+
+If this problem is reproducible, please submit a Service Request via:
+    http://www.mathworks.com/support/contact_us/
+
+A technical support engineer might contact you with further information.
+
+Thank you for your help.** This crash report has been saved to disk as /home/trongnguyen/matlab_crash_dump.2934-1 **
+
+
+
+MATLAB is exiting because of fatal error
