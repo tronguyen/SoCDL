@@ -25,7 +25,6 @@ CMD: matlab ./main_socdl.m [alg_index]
 ### Cite
 
 @inproceedings{\
- Nguyen:2017:CTR:3132847.3133128,\
  author = {Nguyen, Trong T. and Lauw, Hady W.},\
  title = {Collaborative Topic Regression with Denoising AutoEncoder for Content and Community Co-Representation},\
  booktitle = {Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},\
