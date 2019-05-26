@@ -4,7 +4,7 @@
 
 ### INTRODUCTION
 
-- This is a raw code in matlab for the paper "Collaborative Topic Regression with Denoising AutoEncoder for Content and Community Co-Representation" (Nguyen & Lauw, CIKM 2017)
+- This is a raw code written in matlab for the paper "Collaborative Topic Regression with Denoising AutoEncoder for Content and Community Co-Representation" (Nguyen & Lauw, CIKM 2017)
 - The pakage includes a few algorithms in social recommendations: CDL, SoRec, PMF, CTR, CTR-SMF, and SoCDL(this paper)
 - Feel free for any modification from this raw code
 
